@@ -1,7 +1,7 @@
 # TerrariaOreBarCalculator
 This is a small program that calculates how much ore is needed to craft bars in Terraria, as well as any additional items to craft the bars.
 
-This program is currently in its first alpha state, so they WILL be bugs, especially if you know Terraria well, some of the calculations may be wrong.
+This program is currently in its first alpha state, so they WILL be bugs, especially if you know Terraria well, some of the calculations may be wrong. This program is also console-based for the time being, just so I can get to grips with TKinter, as I'm still a bit rusty with it. :)
 
 # Who am I?
 
