@@ -3,8 +3,11 @@ This is a small program that calculates how much ore is needed to craft bars in 
 
 This program is currently in its first alpha state, so they WILL be bugs, especially if you know Terraria well, some of the calculations may be wrong.
 
+# Where to contact me?
 
-#What is terraria?
+Email: georgestephendawson@gmail.com or itznachoyt13@gmail.com (both work)
+
+# What is terraria?
 
 
 Terraria is an action-adventure sandbox game developed by Re-Logic. The game was first released for Microsoft Windows on May 16, 2011, and has since been ported to several other platforms. The game features exploration, crafting, building, painting, and combat with a variety of creatures in a procedurally generated 2D world. Terraria received generally positive reviews, with praise given to its sandbox elements. The game had sold over 35 million copies by the end of 2020.
