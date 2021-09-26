@@ -3,6 +3,14 @@ This is a small program that calculates how much ore is needed to craft bars in 
 
 This program is currently in its first alpha state, so they WILL be bugs, especially if you know Terraria well, some of the calculations may be wrong.
 
+# Who am I?
+
+Hi, my name is George, I am 14 years old and I aspire to become a programmer, mainly for games but also ease of use apps, like this one. If i don't become a programmer I would like to become an IT / computer science teacher, teaching kids about the amazing science involved in computing; that is what I find so fascinating about IT.
+
+I really hope you enjoy this small program, and, as always, my contact details are below.
+
+Thanks!
+
 # Where to contact me?
 
 Email: georgestephendawson@gmail.com or itznachoyt13@gmail.com (both work)
@@ -37,3 +45,5 @@ The fourth and final major update for the game, Journey's End, was released on M
 In early February 2021, Andrew Spinks announced the cancellation of the Stadia port of Terraria due to the suspension of the Re-Logic/Spinks's Google account without a given reason for over three weeks.[53] He also announced that Re-Logic would not be working with Google again in the future stating, "I will not be involved with a corporation that values their customers and partners so little. Doing business with Google is a liability."[54] He later clarified that existing Android and Google Play versions of the game will not be affected.[55] Later that February, Google reached out to Re-Logic about the account shutdown and provided transparency around the situation and restored their accounts, and subsequently, Re-Logic reaffirmed that they still planned to release the game for Stadia, which it did on March 18, 2021.[56]
 
 A March 2021 update for the Steam version of the game added direct support for resource packs, worlds, and character sharing through the Steam Workshop. TModLoader is still used to help provide and install user-created mods for the game.[57]
+
+***Yes, this is copied of Wikipedia! :)***
